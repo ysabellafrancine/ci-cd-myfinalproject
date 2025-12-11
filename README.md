@@ -1,3 +1,3 @@
-# CI/CD Tools and Practices Final Project GitHub Action Workflows
+# CI/CD Tools and Practices Final Project Tekton Workflows
 
-This directory will contain all the GitHub Action workflows you create in the CI/CD Tools and Practices Final Project.
+This directory will contain all the Tekton workflows you create in the CI/CD Tools and Practices Final Project.
